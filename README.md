@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi, I’m @temizeloguz.
+ I’m @temizeloguz.
 
  I’m interested in web development.
  
