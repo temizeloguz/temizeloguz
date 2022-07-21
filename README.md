@@ -2,7 +2,7 @@
 
  I’m @temizeloguz.
 
- I’m interested in web development.
+ I’m interested in web development and mobile development.
  
  I’m currently learning Html,Css,Javascript,Bootstrap.
  
